@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="66bdea2d-e3c8-4a61-8b8f-f4f911b204bc" />
+      <option name="name" value="66bdea2d-e3c8-4a61-8b8f-f4f911b204bc" />
+      <option name="url" value="http://mirrors.cloud.tencent.com/nexus/repository/maven-public/" />
+    </remote-repository>
+  </component>
+</project>
