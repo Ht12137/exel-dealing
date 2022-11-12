@@ -5,9 +5,9 @@ import java.util.List;
 
 public class Constants {
 
-    public static final String FINISH_FILE_NAME = "E:\\code\\study\\dealwith-exel\\src\\main\\resources\\last.xlsx";
+    public static final String FINISH_FILE_NAME = "D:\\IdeaProjects\\suncong\\exel-dealing\\src\\main\\resources\\last.xlsx";
 
-    public static final String ORIGIN_FILE_NAME = "E:\\code\\study\\dealwith-exel\\src\\main\\resources\\3-各高校专业设置情况数据.xlsx";
+    public static final String ORIGIN_FILE_NAME = "D:\\IdeaProjects\\suncong\\exel-dealing\\src\\main\\resources\\3-各高校专业设置情况数据.xlsx";
 
     public static final List<String> isLogicalJudgeList = Arrays.asList("数学","统计","计算机");
 
